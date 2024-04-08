@@ -29,8 +29,7 @@ This will install all the necessary packages listed in the requirements.txt file
 
 ## Usage
 
-1. Clone this repository to your local machine:
-`git clone https://github.com/gaurav-bhadane/Flipkart_Web_Scrapping.git`
+1. Clone this repository to your local machine: `git clone https://github.com/gaurav-bhadane/Flipkart_Web_Scrapping.git`
 2. Run the Python script: `python app.py`
 3. Follow the instructions provided in the script to enter the product details you want to scrape.
 4. Once the scraping is complete, the extracted data will be saved to a CSV file named `output.csv`.
