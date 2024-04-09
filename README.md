@@ -1,6 +1,6 @@
 # Flipkart Web Scrapping
 
-This repository contains Python code for scraping data from Flipkart's website. With this code, you can extract information such as product names, prices, ratings, and more from Flipkart's product listings.
+This repository contains Python Project for scraping data from Flipkart's website. With this code, you can extract information such as product names, prices, ratings, and more from Flipkart's product listings.
 
 ## Table of Contents
 
